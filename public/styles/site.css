@@ -5837,4 +5837,19 @@ button.close {
   height: auto; }
 
 
-/*  ||||||||||||||||||||||  */
+    /*  ||||||||||||||||||||||  */
+
+
+.sky-image{
+  min-width: 100%;
+  max-width: 100%;
+}
+
+
+.alt-nav-container{
+    height: 50px;
+}
+
+.image-logo{
+  margin: auto;
+}
